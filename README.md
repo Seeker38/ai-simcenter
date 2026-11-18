@@ -13,7 +13,7 @@ This is a static research project website. GitHub Pages serves the root of the `
 - `script.js`: back-to-top interaction.
 - `assets/`: portraits, university branding, and neutral avatar placeholders.
 
-Nguyen Bao Linh, Nguyen Quynh Tram, and Tran Nguyen My Anh use neutral placeholders until photos are available. Nguyen Hoang Long's photo was supplied by the project owner. Existing matching portraits and university branding come from the [VinUni Medical Translation project](https://vinuni-medical-mt.github.io/), whose visual design inspired this site. Website code is newly written.
+Nguyen Bao Linh, Nguyen Quynh Tram, and My Anh Tran Nguyen use neutral placeholders until photos are available. Nguyen Hoang Long's photo was supplied by the project owner. Existing matching portraits and university branding come from the [VinUni Medical Translation project](https://vinuni-medical-mt.github.io/), whose visual design inspired this site. Website code is newly written.
 
 For local preview, run `python -m http.server 4173`, then open http://localhost:4173.
 
